@@ -1,0 +1,26 @@
+/* Tamaño de imágenes del footer */
+footer img {
+    width: 20px;
+    height: 20px;
+  }
+
+/* Página de inicio  */
+#bondadesForm{
+    margin-top: 40px;
+}
+
+#parrafo-bondades{
+    text-align: justify;
+    text-indent: 15px;
+}
+
+
+  #calendar {
+    max-width: 900px;
+    margin: 40px auto;
+  }
+  
+  #calendar a.fc-event {
+    color: #fff; /*los estilos predeterminados de bootstrap lo hacen negro. deshacer  */
+  }
+  
